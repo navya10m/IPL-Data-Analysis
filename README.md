@@ -4,7 +4,7 @@ An end-to-end data analytics project exploring 17 seasons of the Indian Premier 
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpeg)
 
 ## 🔍 Key Insights
 
